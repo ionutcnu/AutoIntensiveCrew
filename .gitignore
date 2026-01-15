@@ -9,6 +9,12 @@ __pycache__/
 # WoT mod packages
 *.wotmod
 
+# Local builds and research
+wot-src/
+tmp_*/
+wot_auto_intense_training/*.wotmod
+tmp_wotmod.zip
+
 # IDE
 .idea/
 .vscode/

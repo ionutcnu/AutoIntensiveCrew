@@ -1,6 +1,6 @@
 <root>
     <id>me.ionut.autointensetraining</id>
-    <version>1.0.0</version>
+    <version>1.0.8</version>
     <name>Auto Intense Training</name>
     <description>Automatically activates WoT Plus intensive crew training for selected vehicle</description>
 </root>
