@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# WoT mod packages
+*.wotmod
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
